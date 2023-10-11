@@ -2,4 +2,5 @@ user_uuid="fc3e37d1-592d-4ccb-bc12-47148dcdc6c8"
 bucket_name="angelita-fc3e37d1-592d-4ccb-bc12-47148dcdc6c8"
 index_html_filepath="/workspace/terraform-beginner-bootcamp-2023/public/index.html"
 error_html_filepath="/workspace/terraform-beginner-bootcamp-2023/public/error.html"
-content_version=2
+assets_path="/workspace/terraform-beginner-bootcamp-2023/public/assets"
+content_version=1
